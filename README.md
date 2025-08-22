@@ -54,6 +54,4 @@ Se quiser trocar ideias sobre Cibersegurança ou sobre a pesquisa:
 💼 LinkedIn
  www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311
 
-👉 Quer que eu já gere esse README.md em formato pronto para você só fazer upload no repositório?
-
 O ChatGPT pode cometer erros. Considere
