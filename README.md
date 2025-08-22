@@ -1,4 +1,3 @@
-:
 
 📑 Trabalho de Pesquisa – Cibersegurança no Brasil
 
